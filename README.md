@@ -15,7 +15,7 @@
 
 ### Introduction to Other Languages 
 
-— **one-time *quick* machine translation only**, provided according to the version as of February 2, 2026:
+— **one-time *quick* machine translation only**, provided according to the version as of February 4, 2026:
 
 Arabic العربية, Bengali বাংলা, Russian русский, Italian italiano, Dutch Nederlands, Swedish svenska
 
