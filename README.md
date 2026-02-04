@@ -1,6 +1,30 @@
-# OmniEcho - Efficient API Tool for Multilingual Localization & Medical Research
-# OmniEcho - 多语言配置与医学研究的高效 API 工具
+# OmniEcho 
+# Efficient API Tool for Multilingual Localization & Medical Research
+# 多语言配置与医学研究的高效 API 工具
 
+![Views](https://komarev.com/ghpvc/?username=llap4585&repo=OmniEcho&label=Project%20Views&color=blue&style=flat-square)
+
+---
+<a name="Introduction"></a>
+## Introduction
+[⭐️English](#english) | [⭐️中文](#chinese)
+
+*Machine translation (Grok) /機械翻訳:*
+
+[日本語](#japanese) | [Deutsch](#deutsch) | [Français](#francais) | [Español](#espanol) | [हिन्दी](#hindi) | [한국어](#korean) | [Português](#portuguese)
+
+### Introduction to Other Languages 
+
+— **one-time *quick* machine translation only**, provided according to the version as of February 2, 2026:
+
+Arabic العربية, Bengali বাংলা, Russian русский, Italian italiano, Dutch Nederlands, Swedish svenska
+
+[Introduction to Other Languages](./Introduction-to-Other-Languages.md)
+
+
+----
+<a name='chinese' ></a>
+# 中文：
 **OmniEcho** 是为了解决多语言仓库配置时的繁琐流程而设计的 API 调用工具。它诞生的初衷是利用 AI 能力实现 README 的快速多语言化，并已应用于**专业医学研究**场景。
 
 ---
