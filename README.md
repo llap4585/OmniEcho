@@ -743,7 +743,8 @@ httpx
 ---
 <a name="References"></a>
 ## 💪References / Citation
-'''markdown
+```markdown
+
 If you use this project, please cite it as:
 
 @misc{llap4585,
@@ -753,7 +754,8 @@ If you use this project, please cite it as:
     year={2026}
 }
 
-'''
+```
+
 ---
 > **⚠️Disclaimer:** The non-English and non-Chinese versions of this documentation are provided for convenience only and were generated using machine translation. README may have been revised multiple times, and non-Chinese content may be missing. In case of any discrepancy, the Chinese version shall prevail.
 > 
