@@ -102,7 +102,9 @@ Arabic العربية, Bengali বাংলা, Russian русский, Italian 
 ## 🛠️ Requirements
 
 ```text
-          
+python-dotenv
+openai
+httpx          
 ```
 >Notice:
 >
