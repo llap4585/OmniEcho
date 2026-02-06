@@ -97,6 +97,28 @@ Arabic العربية, Bengali বাংলা, Russian русский, Italian 
 在普通翻译场合，DeepSeek的长文本框更有优势。
 
 ---
+<a name="Requirements"></a>
+## 🛠️ Requirements
+
+```text
+          
+```
+>Notice:
+>
+>All essential instructions are included as comments within the code.
+>
+>No separate Quickstart guide is provided.
+>
+>I hate Quickstart!
+
+[Introduction](#Introduction)
+
+---
+<a name="References"></a>
+## 💪References / Citation
+
+
+---
 > **⚠️Disclaimer:** The non-English and non-Chinese versions of this documentation are provided for convenience only and were generated using machine translation. README may have been revised multiple times, and non-Chinese content may be missing. In case of any discrepancy, the Chinese version shall prevail.
 > 
 > ⚠️本项目的成果（包括但不限于代码、数据、文档）仅供学术研究与个人学习使用，不构成任何领域的专业建议或操作标准。 作者不对本项目内容的准确性、完整性或适用性作任何保证。在任何情况下，本人及相关开发人员均不对因使用本项目内容而产生的任何直接或间接后果（包括但不限于法律纠纷、经济损失或人身损害）承担责任。使用本项目即表示您同意自行承担所有风险。
