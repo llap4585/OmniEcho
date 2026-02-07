@@ -76,6 +76,7 @@ In in-depth testing targeting **Grok-4-1-fast-reasoning** and **DeepSeek-V3.2-re
 ⁉️ **The worst** is that the API page does not clearly mark this limit. If approaching or exceeding this range, the model will converge early or lose attention focus.
 
 ✅  **DeepSeek: Worthy of praise**. The DeepSeek team very honestly marked the maximum output length, and its actual output capability is much stronger than Grok, effectively reducing the number of long text splices, **suitable for translation work**.
+
 ---
 
 ### 💵 Detailed Cost and Specification Comparison
@@ -152,6 +153,7 @@ In ordinary translation scenarios, DeepSeek's long text box has more advantages.
 
 
 ✅  **DeepSeek：值得表扬** 。 DeepSeek 团队非常诚实地标注了最大输出长度，且其实际输出能力比 Grok 强得多，有效减少了长文拼接的次数，**适合翻译工作**。
+
 ---
 
 ### 💵 成本与规格详尽对比
@@ -229,6 +231,7 @@ In ordinary translation scenarios, DeepSeek's long text box has more advantages.
 
 
 ✅  **DeepSeek：称賛に値する** 。 DeepSeek チームは最大出力長を非常に誠実に明記しており、実際の出力能力は Grok よりはるかに優れており、長文結合の回数を効果的に削減し、**翻訳作業に適しています**。
+
 ---
 
 ### 💵 コストと仕様の詳細比較
@@ -306,6 +309,7 @@ In umfassenden Tests mit **Grok-4-1-fast-reasoning** und **DeepSeek-V3.2-reasone
 
 
 ✅  **DeepSeek: Lobenswert.** Das DeepSeek-Team gibt die maximale Ausgabelänge ehrlich an, und die tatsächliche Ausgabeleistung ist deutlich stärker als bei Grok, was die Anzahl der Zusammenführungen für lange Texte reduziert und **für Übersetzungsarbeiten geeignet** macht.
+
 ---
 
 ### 💵 Detaillierter Kosten- und Spezifikationsvergleich
@@ -383,6 +387,7 @@ Dans les tests approfondis sur **Grok-4-1-fast-reasoning** et **DeepSeek-V3.2-re
 
 
 ✅  **DeepSeek : Louable.** L'équipe DeepSeek a honnêtement indiqué la longueur maximale de sortie, et sa capacité réelle est bien supérieure à celle de Grok, réduisant efficacement le nombre de拼接 pour les longs textes, **adaptée au travail de traduction**.
+
 ---
 
 ### 💵 Comparaison détaillée des coûts et spécifications
@@ -459,6 +464,7 @@ En las pruebas exhaustivas con **Grok-4-1-fast-reasoning** y **DeepSeek-V3.2-rea
 
 
 ✅  **DeepSeek: Merece elogio.** El equipo de DeepSeek ha marcado honestamente la longitud máxima de salida, y su capacidad real de salida es mucho más fuerte que la de Grok, reduciendo efectivamente el número de concatenaciones de textos largos, **ideal para trabajos de traducción**.
+
 ---
 
 ### 💵 Comparación detallada de costos y especificaciones
@@ -535,6 +541,7 @@ En escenarios de traducción ordinarios, el cuadro de texto largo de DeepSeek ti
 
 
 ✅  **DeepSeek: प्रशंसा के योग्य** । DeepSeek टीम ने ईमानदारी से अधिकतम आउटपुट लंबाई को चिह्नित किया है, और इसकी वास्तविक आउटपुट क्षमता Grok से कहीं अधिक मजबूत है, लंबे पाठ संयोजन की संख्या को प्रभावी ढंग से कम करती है, **अनुवाद कार्य के लिए उपयुक्त**।
+
 ---
 
 ### 💵 लागत और विनिर्देशों की विस्तृत तुलना
@@ -612,6 +619,7 @@ En escenarios de traducción ordinarios, el cuadro de texto largo de DeepSeek ti
 
 
 ✅  **DeepSeek: 칭찬할 만함.** DeepSeek 팀은 최대 출력 길이를 매우 정직하게 표시했으며, 실제 출력 능력이 Grok보다 훨씬 강력하여 장문 연결 횟수를 효과적으로 줄여줍니다, **번역 작업에 적합합니다**.
+
 ---
 
 ### 💵 비용 및 사양 상세 비교
@@ -688,6 +696,7 @@ Em testes profundos com **Grok-4-1-fast-reasoning** e **DeepSeek-V3.2-reasoner**
 
 
 ✅  **DeepSeek: Louvável.** A equipe do DeepSeek marcou honestamente o comprimento máximo de saída, e sua capacidade real de saída é muito superior à do Grok, reduzindo efetivamente o número de concatenações em textos longos, **ideal para trabalho de tradução**.
+
 ---
 
 ### 💵 Comparação Detalhada de Custos e Especificações
